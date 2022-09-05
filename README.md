@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matiasestigarribia
+- 👋 Hi, I’m @matiasestigarribia, 
 - 👀 I’m interested in music and technology
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning how to code 
 - 📫 How to reach me matiestiga@gmail.com
 
 <!---
