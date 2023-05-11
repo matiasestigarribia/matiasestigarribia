@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matiasestigarribia, 
 - 👀 I’m interested in music and technology
-- 🌱 I’m currently learning how to code in Python
+- 🌱 I’m currently learning Full Stack development in Python
 - 📫 How to reach me matiestiga@gmail.com
 
 <!---
